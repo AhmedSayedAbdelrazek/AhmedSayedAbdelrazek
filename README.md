@@ -1,4 +1,4 @@
-# AhmedSayedAbdelrazek
+# Ahmed Sayed Abdelrazek
 <h1 align="center">Hi 👋, I'm Ahmed Sayed</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
