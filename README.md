@@ -1,5 +1,5 @@
 # Ahmed Sayed Abdelrazek
-<h1 align="center">Hi , I'm Ahmed sayed  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi , I'm Ahmed Sayed  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23BE25&size=35&center=true&vCenter=true&width=700&height=100&lines=AI+Engineer+;+Data+Scientist"></a>
 </p>
@@ -18,7 +18,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- I am a `Software Developer` at [Al Rajhi Bank's AI & Digital Group , Al Rajhi Bank's]((https://www.alrajhibank.com.sa/en)).
+- I am a `Software Developer` at [Al Rajhi Bank's AI & Digital Group , Al Rajhi Bank's](https://www.alrajhibank.com.sa/en).
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedSayedAbdelrazek/Projects](https://github.com/AhmedSayedAbdelrazek/Projects)
 - 💬 Ask me about **Data analytics**, **Machine Learning** .
