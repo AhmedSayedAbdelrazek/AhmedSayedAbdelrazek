@@ -18,7 +18,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am a ` Fresh Graduate` at [Faculty of Computer science , Ain-Shams University](https://www.asu.edu.eg/ar).
+- I am a `Software Developer` at [Al Rajhi Bank's AI & Digital Group , Al Rajhi Bank's]((https://www.alrajhibank.com.sa/en)).
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedSayedAbdelrazek/Projects](https://github.com/AhmedSayedAbdelrazek/Projects)
 - 💬 Ask me about **Data analytics**, **Machine Learning** .
