@@ -18,21 +18,20 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- I am a `Software Developer` at [Al Rajhi Bank's AI & Digital Group , Al Rajhi Bank's](https://www.alrajhibank.com.sa/en).
+- I am a `Software Developer` at [Al Rajhi Bank AI & Digital Group](https://www.alrajhibank.com.sa/en).
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedSayedAbdelrazek/Projects](https://github.com/AhmedSayedAbdelrazek/Projects)
-- 💬 Ask me about **Data analytics**, **Machine Learning** .
+- 💬 Ask me about **AI**, **Data Science** .
 - :technologist: I love using Software as a solution for every `Problem`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, 
+- :thinking: I’m currently open for `an Opportunity`, 
 - :nerd_face: Always `learning new things`.
 <br>
 
 # Connect with me
 <p align="center">
-	<a href="mailto:ahmedtito12389@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:abdulraziqas.c@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/AhmedSayedAbdelrazek"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ahmed-3-sayed"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100012708498915"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 
