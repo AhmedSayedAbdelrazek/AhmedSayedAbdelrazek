@@ -19,7 +19,7 @@
 
 <br><br>
 - I am a `Software Developer` at [Al Rajhi Bank AI & Digital Group](https://www.alrajhibank.com.sa/en).
-- 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
+- 🌱My work combines deep learning with software engineering to deliver reliable AI solutions
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedSayedAbdelrazek/Projects](https://github.com/AhmedSayedAbdelrazek/Projects)
 - 💬 Ask me about **AI**, **Data Science** .
 - :technologist: I love using Software as a solution for every `Problem`.
